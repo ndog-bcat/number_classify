@@ -19,3 +19,6 @@ cnn 공부해보겠다고 선형대수학 수강했는데 넘파이로 하려니
 # 참고 자료
 - 중심 논문: "ImageNet Classification with Deep Convolutional Neural Networks"
 - 논문 리뷰: https://deep-learning-study.tistory.com/376
+
+# 웹사이트 초기 구상
+<img width="833" height="466" alt="image" src="https://github.com/user-attachments/assets/aa040705-f462-466e-a741-4d85b3c5a11f" />
