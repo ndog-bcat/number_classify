@@ -32,7 +32,7 @@ html, css, js 기초지식
 - 웹사이트에 그림판 같은 GUI를 구현해서 사용자가 그린 숫자가 몇인지 분류하는 재미 얻어보기
 
 # 참고 자료
-- 중심 논문: "ImageNet Classification with Deep Convolutional Neural Networks"
+- 중심 논문: "ImageNet Classification with Deep Convolutional Neural Networks" (https://proceedings.neurips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)
 - 논문 리뷰: https://deep-learning-study.tistory.com/376
 
 # 웹사이트 초기 구상
