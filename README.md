@@ -6,22 +6,6 @@ cnn 공부해보겠다고 선형대수학 수강했는데 넘파이로 하려니
 - API: FastAPI
 시작시점에서 일단 아는게 많지 않아서 일단 이렇게만 구상함..
 
-# 공부 기간 및 공부 계획
-2025.01 시작
-- 1월
-```
-html, css, js 기초지식
-리액트 기초 사용법
-기본 웹사이트 구성
-논문, 논문 리뷰 공부
-```
-- 2월
-```
-모델 구현
-프로젝트 연결 및 완성
-```
-
-
 # 중간 공부 목표
 - 프론트엔드 언어 기초지식 함양
 - 리액트 기초 사용법
@@ -33,8 +17,8 @@ html, css, js 기초지식
 - 웹사이트에 그림판 같은 GUI를 구현해서 사용자가 그린 숫자가 몇인지 분류하는 재미 얻어보기
 
 # 참고 자료
-- 중심 논문: "ImageNet Classification with Deep Convolutional Neural Networks" (https://proceedings.neurips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)
-- 논문 리뷰: https://deep-learning-study.tistory.com/376
+- 중심 논문: "Gradient-based learning applied to document recognition" (https://ieeexplore.ieee.org/abstract/document/726791?casa_token=FBHfNaihpf4AAAAA:IG0tBScM1jzTGfNwNi7SZBB8n4wbDpbCJ1XKIe1CLRtoNtIR8_UlE5_4mnqESSOSN2FVY8SS)
+- 논문 리뷰: [https://deep-learning-study.tistory.com/376](https://deep-learning-study.tistory.com/368)
 
 # 웹사이트 초기 구상
 <img width="833" height="466" alt="image" src="https://github.com/user-attachments/assets/aa040705-f462-466e-a741-4d85b3c5a11f" />
